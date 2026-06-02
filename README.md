@@ -123,7 +123,7 @@ python main_analysis.py --quick --export-csv
 - **时间范围**: 2004-02-28 ~ 2004-04-02
 - **数据量**: 约 200 万条记录
 - **变量**: 温度 (°C)、湿度 (%)、光照 (lux)、电压 (V)
-- **原始来源**: http://db.lcs.mit.edu/labdata/labdata.html
+- **原始来源**: https://gitcode.com/open-source-toolkit/dfae3.git
 - **许可**: MIT License
 
 数据格式（空格分隔，无表头）：
